@@ -1,4 +1,6 @@
-Spotify Clone app
+###  Spotify Clone app 
+
+This web application is build usign create react app. This appliction is authenticat spotify user and then allow access to use Spotify clone and enjoy music. basically i done all the front end part and pull it the spotify development api for authentication of user. 
 
 CREATED BY : Akhil Rangpariya (cp)
 
@@ -7,24 +9,24 @@ CREATED BY : Akhil Rangpariya (cp)
 ![spotify app 03](https://user-images.githubusercontent.com/99761772/211197032-1a9a5d9d-36c5-443d-8db6-198d5970d25c.png)
 ![spotify app 04](https://user-images.githubusercontent.com/99761772/211197042-06e23d7c-3f1f-4909-bbfa-c08f685bf181.png)
 
-Getting Started with Create React App
+##      Getting Started with Create React App
 This project was bootstrapped with Create React App.
 
-Available Scripts
+### Available Scripts
 In the project directory, you can run:
 
-npm start
+## npm start
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
 
 The page will reload if you make edits.
 You will also see any lint errors in the console.
 
-npm test
+###  npm test
 Launches the test runner in the interactive watch mode.
 See the section about running tests for more information.
 
-npm run build
+###  npm run build
 Builds the app for production to the build folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
@@ -33,7 +35,7 @@ Your app is ready to be deployed!
 
 See the section about deployment for more information.
 
-npm run eject
+###  npm run eject
 Note: this is a one-way operation. Once you eject, you can’t go back!
 
 If you aren’t satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single build dependency from your project.
@@ -42,30 +44,30 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use eject. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-Learn More
+###  Learn More
 You can learn more in the Create React App documentation.
 
 To learn React, check out the React documentation.
 
-Code Splitting
+###  Code Splitting
 This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-Analyzing the Bundle Size
+###  Analyzing the Bundle Size
 This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-Making a Progressive Web App
+###  Making a Progressive Web App
 This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
 Advanced Configuration
 This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
-Deployment
+### Deployment
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-npm run build fails to minify
+### npm run build fails to minify
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-Introduce Git & GitHub
+#    Introduce Git & GitHub
 How to Contibute in this project ?
 
 1.Firstly, fork the Repository. This will make an exact copy of the original repository into your Github Account.
