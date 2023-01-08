@@ -2,12 +2,16 @@
 
 This web application is build usign create react app. This appliction is authenticat spotify user and then allow access to use Spotify clone and enjoy music. basically i done all the front end part and pull it the spotify development api for authentication of user. 
 
-CREATED BY : Akhil Rangpariya (cp)
 
 ![spotify app 01](https://user-images.githubusercontent.com/99761772/211197025-e3c6cec8-cf2f-444e-a4ca-77bcf8519af1.png)
+
 ![spotify app 02](https://user-images.githubusercontent.com/99761772/211197027-af24efd7-8fc8-41c5-88b5-4f385b70f77b.png)
+
+
 ![spotify app 03](https://user-images.githubusercontent.com/99761772/211197032-1a9a5d9d-36c5-443d-8db6-198d5970d25c.png)
+
 ![spotify app 04](https://user-images.githubusercontent.com/99761772/211197042-06e23d7c-3f1f-4909-bbfa-c08f685bf181.png)
+CREATED BY : Akhil Rangpariya (cp)
 
 ##      Getting Started with Create React App
 This project was bootstrapped with Create React App.
