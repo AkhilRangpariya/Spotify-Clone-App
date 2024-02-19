@@ -1,6 +1,6 @@
 ###  Spotify Clone app 
 
-This web application is build usign create react app. This appliction is authenticat spotify user and then allow access to use Spotify clone and enjoy music. basically i done all the front end part and pull it the spotify development api for authentication of user. 
+This web application is built using the Create React app. This application authenticates Spotify users and then allows access to Spotify clones and enjoy music. I have done all the front-end parts and pulled the Spotify development API for the authentication of the user. 
 
 
 ![spotify app 01](https://user-images.githubusercontent.com/99761772/211197025-e3c6cec8-cf2f-444e-a4ca-77bcf8519af1.png)
@@ -20,7 +20,7 @@ This project was bootstrapped with Create React App.
 In the project directory, you can run:
 
 ## npm start
-Runs the app in the development mode.
+It runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
 
 The page will reload if you make edits.
@@ -28,7 +28,7 @@ You will also see any lint errors in the console.
 
 ###  npm test
 Launches the test runner in the interactive watch mode.
-See the section about running tests for more information.
+Please take a look at the section about running tests for more information.
 
 ###  npm run build
 Builds the app for production to the build folder.
@@ -37,16 +37,16 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.
 Your app is ready to be deployed!
 
-See the section about deployment for more information.
+Please take a look at the section about deployment for more information.
 
 ###  npm run eject
 Note: this is a one-way operation. Once you eject, you can’t go back!
 
-If you aren’t satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single build dependency from your project.
+If you aren’t satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single-build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except eject will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except eject will still work, but they will point to the copied scripts so you can tweak them. At this point, you’re on your own.
 
-You don’t have to ever use eject. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+You don’t have ever to use eject. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However, we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 ###  Learn More
 You can learn more in the Create React App documentation.
@@ -72,24 +72,24 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 #    Introduce Git & GitHub
-How to Contibute in this project ?
+How to Contribute this project?
 
-1.Firstly, fork the Repository. This will make an exact copy of the original repository into your Github Account.
+1. Firstly, fork the Repository. This will make an exact copy of the original repository into your GitHub Account.
 
-2.Copy the URL of the Repository by clickling on a Code button.
+2. Copy the URL of the Repository by clicking on a Code button.
 
-3.Create a new folder in your PC and then open the folder in VS code.
+3. Create a new folder on your PC and then open the folder in VS code.
 
-4.Now, Open VS code Terminal and execute the git clone [URL] command.
+4. Now, Open VS code Terminal and execute the git clone [URL] command.
 
-5.You can now make changes in the project.
+5. You can now make changes to the project.
 
-6.After making changes, execute the git add . command.
+6. After making changes, execute the git add. command.
 
-7.Then execute git commnit -m "message".
+7. Then execute git commit -m "message".
 
-8.Execute git push command and this will push the code to your repository.
+8. Execute the git push command and this will push the code to your repository.
 
-9.Now you can create a new pull/merge request from your Github login.
+9. Now you can create a new pull/merge request from your GitHub login.
 
-10.Wait for the Owner to accept your pull/merge request
+10. Wait for the Owner to accept your pull/merge request
